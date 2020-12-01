@@ -25,7 +25,7 @@ fetch("http://localhost:3000/products")
         <div class="card productcard" style="width: 18rem;" >
 
         <div class="card-body">
-          <div class="card-title" style="font-size:50px;text-align:center">${product.emoji}${product.emoji}${product.emoji}</div>
+          <div class="card-title" style="font-size:60px;text-align:center">${product.emoji}${product.emoji}</div>
        </div>
 
         <div class="card-body">

@@ -22,6 +22,7 @@ fetch("http://localhost:3000/products")
                     <button class="btn btn-danger" onclick="deleteProduct(${product.id},this)">Delete</button>
                 </td>
             </tr>
+            
         `;
 
     });
